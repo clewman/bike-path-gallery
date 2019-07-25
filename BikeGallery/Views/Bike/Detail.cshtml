@@ -1,5 +1,16 @@
 ﻿@{
-    Layout = null;
+        Layout = null;
+        var seriesTitle = "Fort Stevens";
+        var issueNumber = "1";
+        var description = "<p> a description of the ride at Fort Stevens.</p>";
+        var riders = new string[]
+            {
+                "Mom: Cheryl",
+                "Dad:  Jason",
+                "Child 1:  Ash",
+                "Child 2: Sage"
+            };
+
 }
 
 <!DOCTYPE html>
@@ -11,7 +22,15 @@
 </head>
 <body>
     <div>
-    <h1> Hello from our view.</h1>
+    <h1> @seriesTitle</h1>
+        <h2> Issue #:@issueNumber</h2>
+        <h5> Description: </h5>
+        <div>
+            @Html.Raw(description)
+        </div>
+
+        <h5>Riders:</h5>
+        <div>@riders</div>
     </div>
 </body>
 </html>
