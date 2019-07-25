@@ -10,13 +10,7 @@ namespace BikeGallery.Controllers
     {
         public ActionResult Detail()
         {
-            if (DateTime.Today.DayOfWeek == DayOfWeek.Thursday)
-            {
-                return Redirect("/");
-            }
-            return Content("string of content");
-           
-         
+            return View();
         }
     }  
 
