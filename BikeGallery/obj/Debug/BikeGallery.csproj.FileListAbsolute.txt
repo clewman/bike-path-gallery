@@ -1,0 +1,138 @@
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\BikeGallery.dll.config
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\BikeGallery.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\BikeGallery.pdb
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csc.exe
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csc.exe.config
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csc.rsp
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csi.exe
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csi.exe.config
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\csi.rsp
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.AppContext.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Console.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\vbc.exe
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\vbc.exe.config
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\vbc.rsp
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Helpers.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Mvc.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Razor.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Razor.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Helpers.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\System.Web.Mvc.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\obj\Debug\BikeGallery.csprojAssemblyReference.cache
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\obj\Debug\BikeGallery.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\obj\Debug\BikeGallery.csproj.CopyComplete
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\obj\Debug\BikeGallery.dll
+C:\Users\Shadow\Desktop\Cheryl\BikeGallery\obj\Debug\BikeGallery.pdb
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\obj\Debug\BikeGallery.csprojAssemblyReference.cache
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\obj\Debug\BikeGallery.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\obj\Debug\BikeGallery.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\obj\Debug\BikeGallery.pdb
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\BikeGallery.dll.config
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\BikeGallery.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\BikeGallery.pdb
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csc.exe
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csc.exe.config
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csc.rsp
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csi.exe
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csi.exe.config
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\csi.rsp
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.AppContext.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Console.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\vbc.exe
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\vbc.exe.config
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\vbc.rsp
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Helpers.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Mvc.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Razor.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Razor.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Helpers.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\System.Web.Mvc.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shadow\Desktop\Cheryl\Bike Gallery\BikeGallery\obj\Debug\BikeGallery.csproj.CopyComplete
