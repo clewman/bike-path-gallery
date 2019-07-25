@@ -8,9 +8,15 @@ namespace BikeGallery.Controllers
 {
     public class BikeController : Controller
     {
-        public string Detail()
+        public ActionResult Detail()
         {
-            return "Hello from the bike gallery";
+            if (DateTime.Today.DayOfWeek == DayOfWeek.Thursday)
+            {
+                return Redirect("/");
+            }
+            return Content("string of content");
+           
+         
         }
     }  
 
