@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Bike Path Detail";
+
+}
+
+
+<h1> @ViewBag.SeriesTitle</h1>
+<h2> Issue #:@ViewBag.IssueNumber</h2>
+<h5> Description: </h5>
+<div>
+    @Html.Raw(ViewBag.Description)
+</div>
+
+@if (ViewBag.Riders.Length > 0)
+{
+    <h5>Riders:</h5>
+    <div>
+        <ul>
+            @foreach (var rider in ViewBag.Riders)
+            {
+                <li> @rider</li>
+            }
+        </ul>
+    </div>
+}
+
+
