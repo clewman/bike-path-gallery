@@ -1,0 +1,30 @@
+﻿@model BikeGallery.Models.BikePath
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = Model.DisplayText;
+
+}
+
+
+<h1> @Model.SeriesTitle</h1>
+<h2> Issue #:@Model.IssueNumber</h2>
+<h5> Description: </h5>
+<div>
+    @Html.Raw(Model.DescriptionHtml)
+</div>
+
+@if (Model.Riders.Length > 0)
+{
+    <h5>Riders:</h5>
+    <div>
+        <ul>
+            @foreach (var rider in Model.Riders)
+            {
+                <li> @rider.Role: @rider.Name</li>
+            }
+        </ul>
+    </div>
+}
+
+
