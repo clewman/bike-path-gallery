@@ -1,28 +1,45 @@
-﻿@{
+﻿@model BikeGallery.Models.BikePath
+
+@{
     Layout = "~/Views/Shared/_Layout.cshtml";
-    ViewBag.Title = "Bike Path Detail";
+    ViewBag.Title = Model.DisplayText;
 
 }
 
+<h2>@Model.DisplayText</h2>
 
-<h1> @ViewBag.SeriesTitle</h1>
-<h2> Issue #:@ViewBag.IssueNumber</h2>
-<h5> Description: </h5>
-<div>
-    @Html.Raw(ViewBag.Description)
+<div class="row">
+    <div class="col-md-6">
+        <div class="well">
+            <h5><label>Series Title:</label> @Model.SeriesTitle</h5>
+            <h5><label>Issue #:</label> @Model.IssueNumber</h5>
+            <h5><label>Favorite:</label> @(Model.Favorite ? "Yes" : "No")</h5>
+
+            @if (Model.Riders.Length > 0)
+            {
+                <h5>Riders:</h5>
+                <div>
+                    <ul>
+                        @foreach (var rider in Model.Riders)
+                        {
+                            <li> @rider.Role: @rider.Name</li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+        <h5> Description: </h5>
+        <div>
+            @Html.Raw(Model.DescriptionHtml)
+        </div>
+    </div>
+    <div class="col-md-6">
+        <img src="/Images/@Model.CoverImageFileName"
+             alt="@Model.DisplayText" class="img-responsive" />
+    </div>
 </div>
 
-@if (ViewBag.Riders.Length > 0)
-{
-    <h5>Riders:</h5>
-    <div>
-        <ul>
-            @foreach (var rider in ViewBag.Riders)
-            {
-                <li> @rider</li>
-            }
-        </ul>
-    </div>
-}
+
+
 
 

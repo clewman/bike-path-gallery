@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BikeGallery.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,18 +11,22 @@ namespace BikeGallery.Controllers
     {
         public ActionResult Detail()
         {
-            ViewBag.SeriesTitle = "Fort Stevens";
-            ViewBag.IssueNumber = "1";
-            ViewBag.Description = "<p> a description of the ride at Fort Stevens.</p>";
-            ViewBag.Riders = new string[]
+            var bikePath = new BikePath()
+            {
+                SeriesTitle = "Fort Stevens",
+                IssueNumber = 1,
+                DescriptionHtml = "<p> a description of the ride at Fort Stevens.</p>",
+                Riders = new Rider[]
                 {
-                "Mom: Cheryl",
-                "Dad:  Jason",
-                "Child 1:  Ash",
-                "Child 2: Sage"
-                };
+                    new Rider() { Name = "Sage", Role = "Rock Star"},
+                    new Rider() { Name = "Ash", Role = "Rock Star"},
+                    new Rider() { Name = "Jason", Role = "Papa"},
+                    new Rider() { Name = "Cheryl", Role = "Mama"},
 
-            return View();
+                }
+            };
+
+            return View(bikePath);
         }
     }  
 
